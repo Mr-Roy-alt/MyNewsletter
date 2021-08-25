@@ -1,10 +1,1 @@
-#//API key
-#//69ad066cd9d9420dfb02663cd4d9ab7a-us5
-
-
-#//Audience ID
-#//2b7be01d54
-
-#//curl -X GET
-#/*  'https://${dc}.api.mailchimp.com/3.0/?fields=<SOME_ARRAY_VALUE>&exclude_fields=<SOME_ARRAY_VALUE>' \
-#  --user "anystring:${apikey}"'*/
+secret.txt
